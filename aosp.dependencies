@@ -5,9 +5,9 @@
     "branch": "ten-wip"
   },
   {
-    "repository": "kernel_xiaomi_dipper",
+    "repository": "lakgarg/kernel_xiaomi_dipper",
     "target_path": "kernel/xiaomi/beryllium",
-    "branch": "ten-wip"
+    "branch": "ten-power"
   },
   {
     "repository": "packages_apps_GoogleCameraMod",
